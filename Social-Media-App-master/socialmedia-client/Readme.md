@@ -1,4 +1,4 @@
-This is the frontend side.
+This is the frontent.
 Used: React, Redux, and Material-UI
 
 To run this app from the front-end only:
